@@ -1,0 +1,112 @@
+body {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    outline: none;
+}
+
+.btn {
+    width: 450px;
+    height: 40px;
+    background-color: cornflowerblue;
+    color: #fff;
+    border-color: cornflowerblue;
+    border-radius: 5px;
+}
+
+#fname {
+    width: 215px;
+    height: 40px;
+    border-radius: 5px;
+    outline: none;
+}
+
+.split {
+    z-index: 1;
+    top: 0;
+    overflow-x: scroll;
+    padding-top: 20px;
+}
+
+.right {
+    position: absolute;
+    width: 900px;
+    height: 800px;
+    overflow-x: scroll;
+    right: 0;
+}
+
+.left {
+    position: fixed;
+    width: 400px;
+    height: 800px;
+    overflow-y: scroll;
+    left: 0;
+    text-align: center;
+}
+
+.logo {
+    opacity: 0.9;
+    padding-top: 50px;
+    padding-left: 50px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 50px;
+    height: 50px;
+}
+
+.wrd {
+    word-break: break-all;
+    width: 250px;
+}
+
+#left-page {
+    text-align: justify;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    background-image: url(/img/1_qsB9Xn7cZtjy7NPxZMjVuA.jpeg);
+    color: #fff;
+}
+
+#right-page {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.button {
+    width: 450px;
+    height: 40px;
+    background-color: black;
+    border-color: black;
+    border-radius: 5px;
+    color: #fff;
+}
+
+#label {
+    width: 450px;
+    height: 40px;
+    border-radius: 5px;
+    outline: none;
+}
+#firsname {
+    margin-right: 290px;
+}
+.firsname {
+    margin-left: 15px;
+}
+#email {
+    margin-right: 415px;
+}
+#uname {
+    margin-right: 60px;
+}
+#pword {
+    margin-right: 280px;
+}
+span {
+    opacity: 0.8;
+}
+
+
